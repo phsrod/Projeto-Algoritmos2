@@ -898,7 +898,7 @@ void totalVendidos(Vendas *v){
     system("PAUSE");
 }
 
-//Função principal
+//Função principal - lógica do programa
 int main(){
     //Variáveis auxiliares de navegação
     int respMenu, respVendas, respProdutos, respClientes;
